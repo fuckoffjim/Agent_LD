@@ -1,0 +1,15 @@
+{
+  "name": "AgentLuangDong",
+  "version": "1.0.0",
+  "description": "NOT a chinese intelligence agent.",
+  "main": "agent.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Jim Rastlerton",
+  "dependencies": {
+    "irc": "^0.3.7",
+    "underscore": "^1.7.0"
+  }
+}
