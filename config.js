@@ -20,7 +20,7 @@ module.exports = {
    */
   connection: {
     port: 6667,
-    channels: ['#8chan', '#8chan-dev'],
+    channels: ['#8chan'],
     userName: 'luangdong', // ident
     realName: 'Agent Luang Dong',
     debug: true,

@@ -1,5 +1,5 @@
-Pastor Bot 2.0 - Beta
+# Agent Luang Dong
 
 Deps: irc, underscore
 
-Spread the good news!
+NOT a chinese intelligence agent.
