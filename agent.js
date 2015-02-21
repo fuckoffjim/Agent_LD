@@ -87,16 +87,6 @@ client.addListener('pm', function(nick, message) {
   
   if (com) {
     
-    // Anyone can spread the Word of the Lord
-    if (com.command == 'preach') {
-      if (com.params[0]) {
-        //preach(com.params[0]);
-      }
-      else {
-        client.say(nick, '!preach #channel');
-      }
-    }
-    
     // If the pm was from one of our masters
     if (config.masters.indexOf(nick) !== -1) {
       
